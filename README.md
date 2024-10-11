@@ -4,7 +4,7 @@ All the media content about different topics that I consume.
 [🟠PENDING; 🟡IN PROGRESS; 🟢FINISHED]
 
 MEETUPS
-- Extreme programming & Testing
+- eXtreme Programming & Testing
   - 🟢[The Importance of Testing and Engineering Practices for Agile Teams | James Grenning](https://www.youtube.com/watch?v=HvyON4SCgpU)
 
 BOOKS
