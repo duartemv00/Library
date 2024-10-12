@@ -5,7 +5,7 @@ All the media content about different topics that I consume.
 
 MEETUPS
 - eXtreme Programming & Testing
-  - 🟢[The Importance of Testing and Engineering Practices for Agile Teams | James Grenning](https://www.youtube.com/watch?v=HvyON4SCgpU) | Takeouts()
+  - 🟢[The Importance of Testing and Engineering Practices for Agile Teams | James Grenning](https://www.youtube.com/watch?v=HvyON4SCgpU) | [Takeouts]()
 
 BOOKS
 - Software
