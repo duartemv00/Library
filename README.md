@@ -12,7 +12,7 @@ BOOKS
   - 🟡Pragmatic Programmer | Takeouts()
   - 🟡Clean Code | Takeouts()
   - 🟡The Phoenix Project | Gene Kim, Kevin Behr & George Spafford | Takeouts()
-  - 🟡Modern Game Testing | Nikolina Finska | Takeouts()
+  - 🟡[Modern Game Testing | Nikolina Finska](https://sciendo.com/book/9781803230764?top-tab=authors) | Takeouts()
  - Production
    - 🟢Sweet, Blood and Pixels
 
