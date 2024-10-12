@@ -1,5 +1,5 @@
 # Library
-All the media content about different topics that I consume. Work in progress
+All the media content about different topics that I consume.
 
 [🟠PENDING; 🟡IN PROGRESS; 🟢FINISHED]
 
