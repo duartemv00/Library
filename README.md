@@ -10,6 +10,7 @@ MEETUPS
 BOOKS
 - Software
   - 🟡Pragmatic Programmer
+  - 🟡Clean Code
   - 🟡The Phoenix Project | Gene Kim, Kevin Behr & George Spafford
   - 🟡Modern Game Testing | Nikolina Finska
  
