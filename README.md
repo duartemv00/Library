@@ -6,6 +6,7 @@ All the media content about different topics that I consume.
 TALKS
 - eXtreme Programming & Testing
   - 🟢[The Importance of Testing and Engineering Practices for Agile Teams | James Grenning](https://www.youtube.com/watch?v=HvyON4SCgpU) | [Takeouts]()
+- Unreal Engine
   - 🟢[Programming Subsystems | Live from HQ | Inside Unreal](https://www.youtube.com/watch?v=v5b1FvKBYzc)
   - 🟠[Extending the Editor: Making the Most of Unreal Engine’s Existing Framework | Unreal Fest 2024](https://www.youtube.com/watch?v=ovpiYkYFlPM)
 
