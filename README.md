@@ -8,6 +8,7 @@ TALKS
   - 🟢[The Importance of Testing and Engineering Practices for Agile Teams | James Grenning](https://www.youtube.com/watch?v=HvyON4SCgpU) | [Takeouts]()
 - Unreal Engine
   - 🟢[Programming Subsystems | Live from HQ | Inside Unreal](https://www.youtube.com/watch?v=v5b1FvKBYzc)
+  - 🟠[I Wish I Learned This Sooner! | Unreal Fest 2024](https://www.youtube.com/watch?v=m0T8euG9Rh8)
   - 🟠[Extending the Editor: Making the Most of Unreal Engine’s Existing Framework | Unreal Fest 2024](https://www.youtube.com/watch?v=ovpiYkYFlPM)
   - 🟠[Collision Data in UE5: Practical Tips for Managing Collision Settings & Queries | Unreal Fest 2023](https://www.youtube.com/watch?v=xIQI6nXFygA&t=1124s)
   - 🟠[Tips for Quickly Prototyping | Inside Unreal](https://www.youtube.com/watch?v=3iIAcOtPJZg)
