@@ -10,6 +10,8 @@ TALKS
   - 🟢[Programming Subsystems | Live from HQ | Inside Unreal](https://www.youtube.com/watch?v=v5b1FvKBYzc)
   - 🟠[Extending the Editor: Making the Most of Unreal Engine’s Existing Framework | Unreal Fest 2024](https://www.youtube.com/watch?v=ovpiYkYFlPM)
   - 🟠[Collision Data in UE5: Practical Tips for Managing Collision Settings & Queries | Unreal Fest 2023](https://www.youtube.com/watch?v=xIQI6nXFygA&t=1124s)
+  - 🟠[Tips for Quickly Prototyping | Inside Unreal](https://www.youtube.com/watch?v=3iIAcOtPJZg)
+  - 🟡[35 UE5 Features You Probably Don't Know About | Unreal Fest 2022](https://www.youtube.com/watch?v=k2IP5DYQ0-0)
 
 BOOKS
 - Software
