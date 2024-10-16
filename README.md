@@ -13,6 +13,7 @@ TALKS
   - 🟠[Collision Data in UE5: Practical Tips for Managing Collision Settings & Queries | Unreal Fest 2023](https://www.youtube.com/watch?v=xIQI6nXFygA&t=1124s)
   - 🟠[Tips for Quickly Prototyping | Inside Unreal](https://www.youtube.com/watch?v=3iIAcOtPJZg)
   - 🟡[35 UE5 Features You Probably Don't Know About | Unreal Fest 2022](https://www.youtube.com/watch?v=k2IP5DYQ0-0)
+  - 🟠[The Unfeatured Features of Unreal Engine in 2024 | Unreal Fest 2024](https://www.youtube.com/watch?v=mW0IlgjF-iw)
 
 BOOKS
 - Software
