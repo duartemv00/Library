@@ -15,6 +15,10 @@ TALKS
   - 🟡[35 UE5 Features You Probably Don't Know About | Unreal Fest 2022](https://www.youtube.com/watch?v=k2IP5DYQ0-0)
   - 🟠[The Unfeatured Features of Unreal Engine in 2024 | Unreal Fest 2024](https://www.youtube.com/watch?v=mW0IlgjF-iw)
   - 🟠[Making Better Blueprints | Unreal Fest 2022](https://www.youtube.com/watch?v=mW0IlgjF-iw)
+  - 🟠[Maximizing Your Game's Performance in Unreal Engine | Unreal Fest 2022](https://www.youtube.com/watch?v=dj4kNnj4FAQ)
+  - 🟠[Optimizing the Game Thread | Unreal Fest 2024](https://www.youtube.com/watch?v=KxREK-DYu70)
+  - 🟠[Obscure Techniques for Better Development Experience and Visual Candy | Unreal Fest 2024](https://www.youtube.com/watch?v=ds_jC_Nv380)
+  - 🟠[Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management | Unreal Fest 2024](https://www.youtube.com/watch?v=dj4kNnj4FAQ)
 
 BOOKS
 - Software
